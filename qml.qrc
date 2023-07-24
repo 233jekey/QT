@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../../Desktop/batteryobj/meshes/______013.mesh</file>
+        <file>../../Desktop/batteryobj/good.mtl</file>
+        <file>../../Desktop/batteryobj/Good.qml</file>
+    </qresource>
+</RCC>
